@@ -1,0 +1,26 @@
+Aparência :
+
+diga " " por " " segundos
+Ele diz algo por tantos segundos
+Bom pra explicar o que programa faz no Início
+
+Eventos :
+
+Quando *Bandeira Verde" for clicada
+Usado pra começar um programa
+
+Sensores :
+
+pergunte " " e espere
+Usado pra perguntar algo e esperar uma respostas
+
+Operadores :
+
+junte " " com " "
+Ótimo para juntar palavras com Variáveis
+Se colocar uma operação ela será realizada
+
+Variáveis :
+
+mude "variável" para " "
+Muda a variável para uma mensagem / resposta

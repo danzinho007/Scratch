@@ -1,0 +1,6 @@
+Desafios :
+
+1- Dizer Olá Mundo na tela
+2- Guardar "Olá Mundo" na variável e mandar ele dizer
+3- Falar pra pessoa digitar 2 números e mostrar a Soma e a Subtração entre o 1° e 2° 
+Ex: A soma é X, A soma de X com Y é XY, A Subtração de X com Y é -XY
