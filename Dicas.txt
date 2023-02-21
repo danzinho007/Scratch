@@ -1,10 +1,21 @@
-Aparência :
+﻿Aparência / Motion :
 
-diga " " por " " segundos
+-diga " " por " " segundos
 Ele diz algo por tantos segundos
 Bom pra explicar o que programa faz no Início
 
-Eventos :
+-move 10 steps 
+Andar 10 frames
+
+ / Looks :
+
+-say "Mensagem" for "N" seconds
+Diz a Mensagem por n segundos
+ 
+-switch backdrop to "cenário"
+Muda o fundo pro cenário
+
+Eventos / Events :
 
 Quando *Bandeira Verde" for clicada
 Usado pra começar um programa
@@ -24,3 +35,27 @@ Variáveis :
 
 mude "variável" para " "
 Muda a variável para uma mensagem / resposta
+
+----------------
+
+Adicionar Cenário de fundo
+
+---------------------
+Exponenciação
+
+Exemplo : 2³ é 8
+
+n1 = 2                /// n1 = 10
+n2 = 3		      /// n2 = 2
+Resposta = x	      ///
+Repetição = y	      ///
+
+x = n1 * n2           ///
+y = n2 - 2            ///
+Repita x :            ///
+x = x * n1            ///
+
+x = 2 * 2 > x = 4     /// x = 10 * 10 > x = 100
+y = 3 - 2 > y = 1     /// y = 2 - 2 > y = 0
+Repita 1:             /// Repita 0:
+x = 4 * 2             /// Como é 0 não vai repetir

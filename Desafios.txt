@@ -1,6 +1,361 @@
-Desafios :
+﻿Desafios :
 
 1- Dizer Olá Mundo na tela
+OK
+
 2- Guardar "Olá Mundo" na variável e mandar ele dizer
+OK
+
 3- Falar pra pessoa digitar 2 números e mostrar a Soma e a Subtração entre o 1° e 2° 
 Ex: A soma é X, A soma de X com Y é XY, A Subtração de X com Y é -XY
+Ok
+
+4- Falar pra pessoa digitar 2 números e mostrar :
+Soma
+Subtração
+Multiplicação
+Divisão
+Resto da Divisão
+Modulo = Falta
+Exponenciação = Falta
+
+5-
+6-
+7-
+8-
+9-
+10-
+Aula 
+
+
+
+04: Saber do �ngulo seu :
+	Seno
+	Cosseno
+	Tangente
+	Secante
+	Cossecante
+	Cotangente
+
+05: Verificador de 3 n�meros :
+	A>B ?
+	B>C ?
+	Etc
+
+06: Testando Fontes desconhecidas:
+
+07: Verificar se � tri�ngulo e classificar em :
+	Equil�tero
+	Escaleno
+	Is�sceles
+	Acut�ngulo
+	Obtus�ngulo
+	Ret�ngulo
+Novidade : 76 Repita 
+
+08: Juros Simples e Compostos
+Novidade : 77 Repita 
+
+09: Soma de Matriz 2x2
+Novidade : 78 Repita
+Novidade : 79 Repita + Procedimento
+
+10: Descubra sua idade
+Novidade : 80 Repita
+
+11: Conversor de moedas :
+Somente afegane
+Por�m tem v�rias moedas
+
+12: Convers�o de Temperatura
+Escreval, Leia e Opera��o
+Novidade : 83 Repita
+Novidade : 84 Repita e Escolha
+
+13: Porcentagem de qualquer valor
+Escreval, Leia e Opera��o
+Novidade : 85 Repita
+
+14: Empréstimo
+Escreval, Leia e Opera��o
+
+15: Maioridade e Carteira de Motorista
+Escreval, Leia, Opera��o e Se...ent�o...sen�o
+
+16: Divisibilidade
+Escreval, Leia, Se...ent�o...sen�o
+Div por 2, 6, 14, 15
+
+17: N�mero Fibonacci
+Escreval, Leia e Se...entao...senao
+
+18: IMC ( �ndice de Massa Corporal )
+Escreval, Leia, Opera��o e Se...ent�o..sen�o
+
+19: Equa��o do 2� Grau
+Escreval, Leia, Opera��o e Se...ent�o
+
+20: Equa��o do 2� Grau
+Escreval, Leia, Opera��o e Se...ent�o...sen�o
+
+21: Media da Escola
+Escreval, Leia, M�dia, Se...ent�o
+Novidade 86 : Procedimento
+
+22: M�dia Teste + Prova / 2
+Escreva, Leia, Opera��o, Se...ent�o...sen�o (2x)
+
+23: Doa��o Crian�a Esperan�a
+Escreval, Leia e Escolha
+Novidade 87 : Repita 
+
+24: Novo Sal�rio
+Escreva, Leia e Escolha
+Novidade 88 : Repita
+
+25: Aproveitamento Escla
+Escreva, Leia e Escolha
+Novidade 89 : Repita
+
+26: Gols de Partida
+Escreva, Leia, Opera��o e Escolha
+Novidade 90 : Repita
+
+27: Número Fibonacci
+Escreval, Leia, Opera��o, Se...ent�o...sen�o
+Novidade 91 : Repita
+
+28: Testando Contador Positivo
+cont, Enquanto...fa�a, Se...ent�o
+1 até Infinito 
+
+29: Testando Contador Negativo
+cont, Enquanto...fa�a, Se...ent�o
+1 até Infinito 
+
+30: Contar at� 10
+cont, Enquanto...fa�a
+
+31: Contar at� 10
+cont, Enquanto...fa�a
+
+32 : At� quanto voc� quer contar ?
+Escreval, Leia, cont, Enquanto...fa�a
+
+33: Contando
+Escreval, Leia, Se...ent�o...sen�o, Opera��o
+
+34: Ler 10 n�meros e som�-los
+cont, Enquanto...fa�a. Escreval, Leia, Se...ent�o
+
+35: Testando Contador at� 10
+Contador, Opera��o e Se...ent�o
+
+36: Ler 10  n�meros, som�-los, dizer o maior e o menor
+cont, Escreva, leia, Se...ent�o
+
+37: Converter Reais pra D�lares
+cont, Escreva, Leia, Enquanto...fa�a
+
+38: Contador
+Escreval, Leia, cont, Enquanto...fa�a, Se...ent�o...sen�o
+
+39: Quantos alunos tem na sala ? Digite a nota e diga a maior nota
+Escreval, Leia, cont, Enquanto...fa�a, Se...ent�o
+
+40: Maior e menor nota
+Escreval, leia, contador, Enquanto e Se...ent�o...sen�o 
+
+41: Quantos alunos tem na sala ? Digite o nome de cada um, agora Digite a nota dele e no final diga qual foi a maior e menor nota
+Escreval, Leia, cont, Enquanto...fa�a, Se...ent�o
+
+46: Números negativos e positivos
+Escreval, Leia, Repita, contador, Opera��o e Se...ent�o...sen�o
+
+47: Fatorial de Qualquer Número
+Escreva, Leia, Repita, Se...entao...senao, LimpaTela, cont
+
+48: Número Primo 
+cont, Escreval, Leia, Repita, Se...entao, Se...entao...senao
+
+49: Advinhar Número
+aleatorio, Leia, LimpaTela, Escreval, Repita...Ate, Se...entao...senao
+
+50: Jogo da Memória ( Rever )
+cont, Escreval, Se...entao, Se...entao.senao
+
+51: Super Contador
+cont, Repita...Ate, Escreval, Leia, Se...entao...senao
+
+52: Cadastramento
+Escreval, Repita...Ate, Escreval, Leia, Se...entao...senao
+
+53: Contar até 10
+cont, Para...faca...FimPara
+
+54: Contar números positivos inteiros
+Escreval, Leia, Para...faca...FimPara
+
+55: Contar números positivos inteiros com pulos
+Escreval, Leia, Para...faca...FimPara
+
+56: Somando 5 números
+cont, Para...faca...FimPara, Escreva, Leia
+
+57: Contar Par ou Impar NúmerosInteiros
+cont, Escreval, Leia, Para...faca...FimPara
+
+58: Verificar quantos números inteiros foram digitados de 0 até 10
+Para...faca...FimPara, Escreval, Leia, Se...entao...FimSe
+
+59: Soma Par ou Ímpar
+Dizer quantos NúmerosInteiros foram digitados de 0 a 10, a soma dos valores pares e a soma dos valores ímpares
+cont, Para...faca...FimPara, Escreval, Leia, Se...então...senão...FimSe
+
+60: Valor entre X ( Rever )
+Pessoa vai digitar 6 Números inteiros e irei dizer :
+Quantos números então entre 1 e 10, 1 e 100, 1 e 1000 e 1 e 100000
+cont, Para...faca...FimPara, Escreva, Leia, Se...então...senão...FimSe
+
+61: Combinações
+Mostrar as Combinações que temos entre 1,2 e 3
+Para...faça....FimPara, Escreva
+
+62: Sequência Fibonacci
+Mostra os primeiros 15 números da Sequência de Fibonacci
+Procedimento. Escreval, Para...faça...FimPara
+
+63: Informações
+Digite 5 Números Inteiros e eu irei dizer :
+A soma dos 5, A média dos 5, Quantos são Divisíveis por 5, A soma dos números pares e quantos Números Nulos tem
+cont, Escreval, Para...faca...FimPara, Leia, Se...então...FimSe, Operação
+
+64: Sequência de Fibonacci
+Vai mostrar os 15 primeiros números da Sequência de Fibonacci
+Escreval, Para...faça...FimPara, cont
+
+65: Sequência de Fibonacci
+Vai mostrar os 15 primeiros números da Sequência Fibonacci, a duplicação dos 15 primeiros números da Sequência de Fibonacci e a triplicação dos 15 primeiros números da Sequência de Fibonacci
+Escreval, Para...faça...FimPara, cont, Operação
+
+66: Sequência de Fibonacci
+Vai mostrar os 15 primeiros números da Sequência Fibonacci, a duplicação dos 15 primeiros números da Sequência de Fibonacci e a triplicação dos 15 primeiros números da Sequência de Fibonacci. Sendo que dessa vez lado a lado
+Escreval, Para...faça...FimPara, cont, Operação
+
+67: Sequência de Fibonacci
+Vai mostrar a Sequência de Fibonacci : Reduzida pela metade, Normal e Duplicado
+Lado a Lado
+Escreval, Para...faça...FimPara, cont, Operação
+
+68: Detector de Pesado e Magreza ( Rever )
+Pessoa vai digitar 3 nomes com seus pesos e o programa irá dizer qual foi mais Magro e qual foi mais Gordo
+Escreval, cont, Para...faca....FimPara, Leia, Se...então...FimSe, LimpaTela
+
+69: Soma Procedimento
+Pessoa vai digitar 2 números e o programa irá falar a soma deles
+Procedimento, Escreval, Leia, Operação
+
+70: Par ou Ímpar Procedimento
+Pessoa vai digitar 1 número e o programa irá dizer se ele é Par ou Ímpar, caso a pessoa queira ela pode repetir
+Procedimento, Se...então...Senão...FimSe, Escreval, Repita...Até, Escreva, Leia
+
+71: Teste Escopo ( Rever )
+Procedimento, Escreva, Escreval
+
+72: Passagem Parâmetro Referência ( Rever )
+Procedimento, Escreval, Operação
+
+73: Passagem Parãmetro Referência ( Rever )
+Procedimento, Escreval, Operação
+
+74: Passagem Referência Fibonacci
+Mostrar os 15 primeiros números da Sequência Fibonacci
+Procedimento, Escreval, Para...faça...FimPara
+
+75- Saber do Ângulo seu :
+	Seno
+	Cosseno
+	Tangente
+	Secante
+	Cossecante
+	Cotangente
+Novidade : Procedimento ( N�o consegui fazer !!! )
+
+76- Verificar se � tri�ngulo e classificar em :
+	Equil�tero
+	Escaleno
+	Is�sceles
+	Acut�ngulo
+	Obtus�ngulo
+	Ret�ngulo
+Novidade : Repita 
+
+77- Juros Simples e Compostos
+Novidade : Repita 
+
+78- Soma de Matriz 2x2 
+Novidade : Repeti
+
+79- Soma de Matriz 2x2 
+Novidade : Repeti + Procedimento
+
+80- Descubra sua idade
+Novidade : Repita
+
+81- Descubra sua idade
+Novidade : Repita + Procedimento
+
+82- Projeto de Cadastro + Soma
+
+83: Convers�o de Temperatura
+Escreval, Leia e Opera��o
+Novidade : Repita
+
+84: Convers�o de Temperatura
+Novidade : Repita e Escolha
+
+85: Porcentagem de Qualquer Valor
+Novidade : Repita
+
+86: Média da Escola
+Digitar a nota do Teste e da Prova do 1° Bimestre, dai o Programa vai dizer se o aluno foi reprovado ou não ( média 7 ) = Faz isso pra 4 Bimestres
+Após isso se Soma a Média dos 4 Bimestres e divide por 4 pra dar a Média Final e dizer se o Aluno foi Aprovado ou reprovado
+Procedimento, Operação, Se...então....senão...FimSe, Escreval, Leia
+
+87:
+
+88:
+
+89:
+
+90:
+
+91:
+
+92:
+
+93:
+
+94:
+
+95:
+
+96:
+
+97:
+
+98:
+
+99:
+
+100: Soma com Função
+Vai mostrar na Tela o valor 9
+Funcao, Operação, Escreval
+
+101: Soma Função
+Digite 2 números e veja a Soma entre eles
+Funcao, Operação, Escreva, Leia, Escreval
+
+102: Par ou Ímpar Função
+Digite um número e veja se ele é Par ou Ímpar
+Funcao, Se....entao...senao...FimSe, Escreva, Leia, Escreval
